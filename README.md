@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *Psst  looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
@@ -107,3 +108,6 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+=======
+# economy-in-turkey
+>>>>>>> 37190426571da841156c4c3625d44726d4c934cb
